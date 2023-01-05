@@ -1,0 +1,3 @@
+[submodule "ref/bibtexParseJs"]
+	path = ref/bibtexParseJs
+	url = git@github.com:ORCID/bibtexParseJs.git
